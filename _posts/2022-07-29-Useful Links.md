@@ -42,7 +42,9 @@ tags: [documentation,links]
 
 ## VMware
 
-* 
+* Run VMware ESXi 7.0 on Unsupported CPUs
+    * <https://flemmingss.com/how-to-run-vmware-esxi-7-0-on-hardware-with-unsupported-cpus/>
+
 
 ## Automation
 
