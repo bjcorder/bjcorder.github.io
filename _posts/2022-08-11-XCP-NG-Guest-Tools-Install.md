@@ -7,6 +7,7 @@ tags: [rhel,linux,os,repo,ubuntu,xcp-ng]
 ---
 
 Operating System: Red Hat Enterprise Linux 8.6
+Operating System: Ubuntu Server 22.04
 
 # Installation
 
