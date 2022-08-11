@@ -3,7 +3,7 @@ layout: post
 title: "Installing the XCP-NG Guest Tools"
 date: 2022-08-11 09:00:00 -0500
 categories: [documentation,configuration]
-tags: [rhel,linux,os,repo]
+tags: [rhel,linux,os,repo,ubuntu,xcp-ng]
 ---
 
 Operating System: Red Hat Enterprise Linux 8.6
