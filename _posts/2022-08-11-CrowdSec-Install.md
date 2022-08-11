@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installing CrowdSec Agent"
-date: 2022-08-11 09:00:00 -0500
+date: 2022-08-11 11:00:00 -0500
 categories: [documentation,configuration]
 tags: [security,crowdsec]
 ---
