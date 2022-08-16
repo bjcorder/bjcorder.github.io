@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISSP - GDPR"
+title: "CISSP 2021 - GDPR"
 date: 2022-08-14 02:00:00 -0500
 categories: [certification]
 tags: [certification,cissp,notes]
