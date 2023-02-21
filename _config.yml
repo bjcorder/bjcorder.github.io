@@ -41,7 +41,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Brian Corder
-  email: bjcorder@protonmail.com             # change to your email address
+  email: brian@bjcorder.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Brian_Corder      # change to your twitter homepage
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media-exp1.licdn.com/dms/image/C5603AQGlgzBcmHl0Gw/profile-displayphoto-shrink_200_200/0/1581438715586?e=1664409600&v=beta&t=7BSqgFrHI9ULSDXXrXVt4nR9i9KA4cG09Iy_bzam8Bs
+avatar: https://media.licdn.com/dms/image/C5603AQGlgzBcmHl0Gw/profile-displayphoto-shrink_800_800/0/1581438715586?e=2147483647&v=beta&t=tl-kIdWEjW0ADvivt9jIO0X7R9nHlDN0kelsLhXD0GE
 
 # boolean type, the global switch for ToC in posts.
 toc: true
